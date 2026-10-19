@@ -1,0 +1,5 @@
+torch>=2.3
+torchvision>=0.18
+numpy>=1.26
+Pillow>=10.0
+tensorboard>=2.16
